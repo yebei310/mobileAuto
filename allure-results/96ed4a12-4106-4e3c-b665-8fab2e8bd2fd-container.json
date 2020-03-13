@@ -1,0 +1,1 @@
+{"uuid":"96ed4a12-4106-4e3c-b665-8fab2e8bd2fd","name":"testcases.TestMyOrder.Logout","description":"","start":1584092000869,"stop":1584092002030,"children":["b5fe1dfe-6cdc-43de-a2d1-1dafe2ffc68a"],"afters":[{"name":"Logout","status":"passed","stage":"finished","description":"","start":1584092000869,"stop":1584092002030}]}
