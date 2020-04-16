@@ -16,7 +16,7 @@ import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-public class TestNGListener extends TestListenerAdapter {
+public class TestNGListener extends TestListenerAdapter{
 
     @Override
     public void onTestFailure(ITestResult tr){
@@ -32,7 +32,6 @@ public class TestNGListener extends TestListenerAdapter {
     }
 
     public void captureScreenShot(ITestResult result,String name) {
-
         AppiumDriver driver = TestStudentClass.getDriver();
         File srcFile = driver.getScreenshotAs(OutputType.FILE);
         String filepath = System.getProperty("user.dir")+"\\img";
@@ -41,7 +40,9 @@ public class TestNGListener extends TestListenerAdapter {
         }
         DateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd HH-mm-ss sss");
         try {
+            String fileName=new File(filepath + File.separator +name+"-"+ dateFormat.format(new Date()) + ".png").getName();
             FileUtils.copyFile(srcFile, new File(filepath + File.separator +name+"-"+ dateFormat.format(new Date()) + ".png"));
+            System.out.printf("失败截图成功,截图name：----------------- "+fileName+"-----------------");
         } catch (IOException e1) {
             e1.printStackTrace();
         }

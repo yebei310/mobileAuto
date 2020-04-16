@@ -3,6 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="8973f1a7-6580-4d68-9317-ffe762663ca6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/log.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/log.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/task/AppOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task/AppOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/task/AppiumConf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task/AppiumConf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/testcases/TestMyOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testcases/TestMyOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/testcases/TestStudentClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testcases/TestStudentClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/TestNGListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/TestNGListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +52,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/prop" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -58,11 +66,12 @@
       <recent name="util" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\Appium-master\mobileAuto\src\main\java\prop" />
       <recent name="D:\project\Appium-master\mobileAuto\src\main\java" />
       <recent name="D:\project\Appium-master\mobileAuto" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestStudentClass">
+  <component name="RunManager" selected="TestNG.D:/project/Appium-master/mobileAuto/testng.xml">
     <configuration name="D:/project/Appium-master/mobileAuto/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="mobileAuto" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
@@ -91,6 +100,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestStudentClass (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mobileAuto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="MAIN_CLASS_NAME" value="testcases.TestStudentClass" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStudentClass (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mobileAuto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="MAIN_CLASS_NAME" value="testcases.TestStudentClass" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestStudentClass" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="mobileAuto" />
       <extension name="coverage">
@@ -110,8 +153,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestStudentClass" />
         <item itemvalue="TestNG.D:/project/Appium-master/mobileAuto/testng.xml" />
+        <item itemvalue="TestNG.TestStudentClass" />
+        <item itemvalue="TestNG.TestStudentClass (2)" />
+        <item itemvalue="TestNG.TestStudentClass (1)" />
         <item itemvalue="TestNG.TestMyOrder.orderInf" />
       </list>
     </recent_temporary>
@@ -127,7 +172,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583920103853</updated>
       <workItem from="1583920106594" duration="25883000" />
-      <workItem from="1586850198311" duration="8965000" />
+      <workItem from="1586850198311" duration="24978000" />
     </task>
     <servers />
   </component>
@@ -143,45 +188,49 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="836" y="361" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583927739051" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1586936098368">
+    <state x="199" y="235" key="CommitChangelistDialog2" timestamp="1586938940215">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586936098368" />
+    <state x="199" y="235" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586938940215" />
+    <state width="1203" height="298" key="GridCell.Tab.0.bottom" timestamp="1587041943360">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1203" height="298" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587041943360" />
     <state width="1315" height="220" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584101202846" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1586936098367">
+    <state width="1203" height="298" key="GridCell.Tab.0.center" timestamp="1587041943360">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586936098367" />
+    <state width="1203" height="298" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587041943360" />
     <state width="1315" height="220" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584101202846" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1586936098367">
+    <state width="1203" height="298" key="GridCell.Tab.0.left" timestamp="1587041943360">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586936098367" />
+    <state width="1203" height="298" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587041943360" />
     <state width="1315" height="220" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584101202846" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1586936098367">
+    <state width="1203" height="298" key="GridCell.Tab.0.right" timestamp="1587041943360">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586936098367" />
+    <state width="1203" height="298" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587041943360" />
     <state width="1315" height="220" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584101202846" />
-    <state width="1315" height="347" key="GridCell.Tab.1.bottom" timestamp="1586934525521">
+    <state width="1203" height="376" key="GridCell.Tab.1.bottom" timestamp="1587041683113">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1315" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586934525521" />
+    <state width="1203" height="376" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587041683113" />
     <state width="1315" height="273" key="GridCell.Tab.1.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584091774443" />
-    <state width="1315" height="347" key="GridCell.Tab.1.center" timestamp="1586934525520">
+    <state width="1203" height="376" key="GridCell.Tab.1.center" timestamp="1587041683112">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1315" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586934525520" />
+    <state width="1203" height="376" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587041683112" />
     <state width="1315" height="273" key="GridCell.Tab.1.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584091774443" />
-    <state width="1315" height="347" key="GridCell.Tab.1.left" timestamp="1586934525520">
+    <state width="1203" height="376" key="GridCell.Tab.1.left" timestamp="1587041683112">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1315" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586934525520" />
+    <state width="1203" height="376" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587041683112" />
     <state width="1315" height="273" key="GridCell.Tab.1.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584091774443" />
-    <state width="1315" height="347" key="GridCell.Tab.1.right" timestamp="1586934525521">
+    <state width="1203" height="376" key="GridCell.Tab.1.right" timestamp="1587041683113">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1315" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586934525521" />
+    <state width="1203" height="376" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587041683113" />
     <state width="1315" height="273" key="GridCell.Tab.1.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584091774443" />
     <state x="463" y="165" key="SettingsEditor" timestamp="1586934561849">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -191,6 +240,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="794" y="276" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1583927708507" />
+    <state x="647" y="275" width="865" height="490" key="find.popup" timestamp="1586943857718">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="647" y="275" width="865" height="490" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586943857718" />
     <state x="588" y="384" key="new project wizard" timestamp="1584420948800">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -206,24 +259,49 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/util/TestNGListener.java</url>
-          <line>35</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/testcases/TestMyOrder.java</url>
-          <line>30</line>
+          <line>31</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/testcases/TestMyOrder.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="10" />
+          <url>file://$PROJECT_DIR$/src/main/java/testcases/TestStudentClass.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/util/TestNGListener.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/testcases/TestStudentClass.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/task/AppOperation.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/testcases/TestMyOrder.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="12" />
+          <line>37</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/testcases/TestStudentClass.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/task/AppOperation.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/task/AppiumConf.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

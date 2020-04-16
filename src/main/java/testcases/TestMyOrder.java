@@ -19,9 +19,10 @@ public class TestMyOrder {
     public  static AndroidDriver<WebElement> androidDriver ;
     AppOrder ao = new AppOrder();
     AppOperation ap= new AppOperation();
+    AppiumConf ac = new AppiumConf();
     @BeforeMethod
     public void setUp() throws Exception {
-        AppiumConf.setUp();
+        ac.setUp();
     }
     @Test(description = "查看订单详情")
     public void orderInf(){
