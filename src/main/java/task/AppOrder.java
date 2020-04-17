@@ -25,6 +25,7 @@ public class AppOrder {
         //进入我的订单页面
         androidDriver.tap(1,we,500);
         logger.info("进入到我的订单页面");
+        System.out.print("进入到我的订单页面");
        WebElement wb1= androidDriver.findElementByXPath("//android.widget.TextView[@resource-id='com.pxwx.student:id/toolbar_right_txt']");
        String title =wb1.getText();
        if (title.contains("申请开票")){
