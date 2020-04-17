@@ -3,14 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8973f1a7-6580-4d68-9317-ffe762663ca6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/log.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/log.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/task/AppOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task/AppOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/task/AppiumConf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task/AppiumConf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/testcases/TestMyOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testcases/TestMyOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/testcases/TestStudentClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testcases/TestStudentClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/TestNGListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/TestNGListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,7 +164,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583920103853</updated>
       <workItem from="1583920106594" duration="25883000" />
-      <workItem from="1586850198311" duration="24978000" />
+      <workItem from="1586850198311" duration="28254000" />
     </task>
     <servers />
   </component>
@@ -240,10 +232,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="794" y="276" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1583927708507" />
-    <state x="647" y="275" width="865" height="490" key="find.popup" timestamp="1586943857718">
+    <state x="647" y="275" width="865" height="490" key="find.popup" timestamp="1587094511734">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="647" y="275" width="865" height="490" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586943857718" />
+    <state x="647" y="275" width="865" height="490" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587094511734" />
     <state x="588" y="384" key="new project wizard" timestamp="1584420948800">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
